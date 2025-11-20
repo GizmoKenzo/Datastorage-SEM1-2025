@@ -88,7 +88,7 @@ VALUES
 INSERT INTO employee_allocation (id, hours_to_allocate, employee_id, teaching_activity_id, course_instance_id)
 VALUES
 -- IV1351
-(1, 72, 11, 1, 21),   -- 72 hours maximum
+(1, 72, 11, 1, 21),  
 (2, 64, 12, 4, 21),   
 (3, 50, 14, 2, 21),   
 (4, 50, 15, 2, 21),   
